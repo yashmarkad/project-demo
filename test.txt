@@ -1,1 +1,1 @@
-this is a plain text file just created for practice.
+this is a plain text file just created for  practice of pull operation.
